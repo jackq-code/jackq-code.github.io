@@ -21,8 +21,6 @@ menu:
     - name: Math 
       url: "math/"
       weight: 4
-    - name: Subscribe 
-      url: "index.xml"
 
 params:
   description: "Testing out a simple website with hugo and xmin"
