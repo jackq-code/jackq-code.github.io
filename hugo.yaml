@@ -12,19 +12,21 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: About
+    - name: About 
       url: "about/"
       weight: 2
-    - name: Projects
+    - name: Projects 
       url: "projects/"
       weight: 3
-    - name: Math
+    - name: Math 
       url: "math/"
       weight: 4
+    - name: Subscribe 
+      url: "index.xml"
 
 params:
   description: "Testing out a simple website with hugo and xmin"
-  footer: "&copy; [Jack Quinn](https://jackq-code.github.io/) | [Github](https://github.com/jackq-code)"
+  footer: "[Jack Quinn](https://jackq-code.github.io/) | [Github](https://github.com/jackq-code)"
 
 markup:
   highlight:
