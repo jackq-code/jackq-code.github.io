@@ -1,0 +1,46 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Portfolio Site built with Hugo xmin"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+
+footnotereturnlinkcontents: "↩"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+    - name: Projects
+      url: "Projects/"
+      weight: 3
+    - name: Math
+      url: "Math/"
+      weight: 4
+
+params:
+  description: "Testing out a simple website with hugo and xmin"
+  footer: "&copy; [Jack Quinn](https://jackq-code.github.io/) | [Github](https://github.com/jackq-code)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
