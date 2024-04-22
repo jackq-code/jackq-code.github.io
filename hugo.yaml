@@ -1,7 +1,7 @@
 baseurl: "/"
 languageCode: "en-us"
 title: "Portfolio Site built with Hugo xmin"
-theme: "hugo-xmin"
+theme: "xmin"
 googleAnalytics: ""
 disqusShortname: ""
 
