@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "Portfolio Site built with Hugo xmin"
+title: "The Best Website Ever"
 theme: "xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -23,7 +23,7 @@ menu:
       weight: 4
 
 params:
-  description: "Testing out a simple website with hugo and xmin"
+  description: "Simple website"
   footer: "[Jack Quinn](https://jackq-code.github.io/) | [Github](https://github.com/jackq-code)"
 
 markup:
