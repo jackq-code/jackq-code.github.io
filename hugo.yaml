@@ -16,10 +16,10 @@ menu:
       url: "about/"
       weight: 2
     - name: Projects
-      url: "Projects/"
+      url: "projects/"
       weight: 3
     - name: Math
-      url: "Math/"
+      url: "math/"
       weight: 4
 
 params:
