@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Home on The Best Website Ever</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on The Best Website Ever</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2024 17:29:58 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing_example</title>
-      <link>http://localhost:1313/posts/testing_example/</link>
-      <pubDate>Sun, 21 Apr 2024 17:29:58 -0600</pubDate>
-      <guid>http://localhost:1313/posts/testing_example/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit</description>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>The below is a very brief, non-exhaustive, resume. A more detailed resume is avaliable upon request.&#xA;Education University of Texas Austin Phd in Computational Science, Engineering, and Mathematics (CSEM) (2024 - present) University of Colorado Boulder M.S. in Applied Mathematics (2023 - 2024) B.S. in Applied Mathematics (2019 - 2023) Experience University of Colorado Boulder Teaching Assistant&#xA;Intro to Differential Equations and Linear Algebra (Spring 2023, Fall 2023, Spring 2024) Graduate Student Researcher (2023 - 2024)</description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>//localhost:1313/math/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/math/</guid>
+      <description>Math Section (will fill at a later date)&#xA;As a note this website is not complete and I hope to make a lot of improvements and find/make a good theme. As a note I used Hugo and the xmin theme to make this site.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/</guid>
+      <description>Projects Section (will be completed when I get some of the code for projects I have done into a more presentable state)</description>
     </item>
   </channel>
 </rss>

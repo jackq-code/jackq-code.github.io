@@ -1,5 +1,5 @@
 ---
-title: About/Resume
+title: About
 author: Jack Quinn
 ---
 
