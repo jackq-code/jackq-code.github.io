@@ -1,6 +1,5 @@
 ---
 title: About
-author: Jack Quinn
 ---
 
 *The below is a very brief, non-exhaustive, resume. A more detailed resume is avaliable upon request.*

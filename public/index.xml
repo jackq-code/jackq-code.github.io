@@ -19,7 +19,7 @@
       <link>//localhost:1313/math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/math/</guid>
-      <description>Math Section (will fill at a later date)&#xA;As a note this website is not complete and I hope to make a lot of improvements and find/make a good theme. As a note I used Hugo and the xmin theme to make this site.</description>
+      <description>Here are some visualizations of different computational methods from courses I thought were fun. I might add more in the future.&#xA;Numerical solution to 1D forced wave equation with finite differences (left). Numerical solution to 1D forced heat equation with Crank-Nicolson (right). Error in boundary integral equation approximation of the Laplace equation with &#34;star&#34; boundary conditions. Here I used Nystr&amp;ouml;m Discretization with trapezoidal quadrature. As a note this website is not complete and I hope to make a lot of improvements and find/make a good theme.</description>
     </item>
     <item>
       <title>Projects</title>

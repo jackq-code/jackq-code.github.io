@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-<img src="/images/image_for_index.jpg"  style="border-radius: 50%;width: 200px;height: 200px;object-fit: cover;float:right;" alt="Description">
+<img src="/images/image_for_index.jpg"  style="border-radius: 50%;width: 200px;height: 200px;object-fit: cover;float:right;" alt="Image for Index">
 
 # Jack Quinn
 
