@@ -5,7 +5,7 @@ title: Home
 
 # Jack Quinn
 
-I am an incoming PhD student studying Computational Science, Engineering, and Mathematics (CSEM) at the University of Texas Austin. Previously I got my bachelors and masters degree at the University of Colorado Boulder in Applied Mathematics. Broadly, I am interested in computational mathematics, numerical analysis, machine learning, dynamical systems, and optimization.  
+I am a PhD student studying Computational Science, Engineering, and Mathematics (CSEM) at the University of Texas Austin. Previously I got my bachelors and masters degree at the University of Colorado Boulder in Applied Mathematics. Broadly, I am interested in computational mathematics, machine learning, dynamical systems, numerical analysis, algorithms, and optimization.
 
 <!---
 <img src="/images/image_for_index.jpg"  alt="Description" class="circular-image">

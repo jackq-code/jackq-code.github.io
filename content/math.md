@@ -10,7 +10,7 @@ Here are some visualizations of different computational methods from courses I t
 </figure>
 <figure>
     <img src="/images/error_laplace_star_200n.png"  style="display: block;width: 400px;height: 400px;object-fit: contain;margin-left: auto;margin-right: auto;" alt="Description">
-    <figcaption style="text-align: center;">Error in boundary integral equation approximation of the Laplace equation with "star" boundary conditions. Here I used Nystr&ouml;m Discretization with trapezoidal quadrature. </figcaption>
+    <figcaption style="text-align: center;">Error in boundary integral equation approximation of the Laplace equation with "star" boundary conditions. Here I used Nystr&ouml;m discretization with trapezoidal quadrature. </figcaption>
 </figure>
 <!-- I could almost certainly be doing this in a better more HUGOy way, but whatever.-->
 
